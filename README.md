@@ -9,7 +9,7 @@ Founder & CEO @ DevOps Shield | DevSecOps Advisor | Sr. Cloud Solution Architect
 🧠 15+ years of experience in software development  
 🔐 Passionate and trusted DevSecOps Advisor and Cloud Solution Architect
 
-For more details, please visit my LinkedIn Profile 📫
+For more details, please visit my [LinkedIn Profile](https://www.linkedin.com/in/emmanuelknafo) 📫
 
 ---
 
